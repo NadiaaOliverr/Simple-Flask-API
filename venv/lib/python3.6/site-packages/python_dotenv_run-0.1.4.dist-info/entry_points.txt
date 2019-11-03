@@ -1,0 +1,3 @@
+[console_scripts]
+dotenv-run = dotenv_run:main
+
